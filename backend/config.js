@@ -1,4 +1,4 @@
 //backend/config.js
 module.exports = {
-	JWT_SECRET: "SomethingRandom"
+	JWT_SECRET: "Add-your-secret-here"
 }
